@@ -16,13 +16,12 @@
 
 - 🗄 I'm a passionate **`backend developer`**
 
-- 🤝 I’m looking to collaborate on interesting projects
+- 🤝 Looking to collaborate on interesting projects
 
 - 🍃 Ask me about **SpringBoot, MySQL and PHP**
 
-- 🌐 I’m also familiar with **Angular, Next.js + React**
+- 🌐 Also familiar with **Angular, Next.js + React**
 
-- 📬 How to reach me dzonzi777@gmail.com
 
 
 
