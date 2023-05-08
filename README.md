@@ -77,7 +77,7 @@
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /><br/><br/>
 
 
-
+<br/><br/>
 <hr>
 
 <h3 align="center">Connect with me</h3>
