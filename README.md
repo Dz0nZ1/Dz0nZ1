@@ -12,7 +12,7 @@
 
 <h1>👨‍💻 About me</h1>
 
-- 👋 Hi, my name is **Nikola Leleković**
+- 👋 Hi, my name is **Nikola**
 
 - 🗄 I'm a passionate **`backend developer`**
 
