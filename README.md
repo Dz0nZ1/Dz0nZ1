@@ -8,7 +8,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Dz0nZ1&style=for-the-badge&color=blueviolet)
-<br/>
 
 
 <h1>👨‍💻 About me</h1>
