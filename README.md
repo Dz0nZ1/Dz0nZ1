@@ -19,7 +19,13 @@
 </p>
 
 <!-- About Me -->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Whoami**
+<h3>
+  <picture>
+    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px">
+  </picture>
+  <strong> Whoami</strong>
+</h3>
+
 
 - 👋 Hi, my name is **Nikola**
 - 🗄 I'm a passionate **`backend developer`**
