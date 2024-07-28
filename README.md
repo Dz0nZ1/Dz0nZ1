@@ -11,7 +11,7 @@
 </p>
 
 <!-- Profile Image -->
-<img align="right" alt="coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/795364192386816618/51341C0EA54D4E2875810CDC8EBFD8F984009938/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+<img align="right" alt="coding" height="250" width="250" src="https://c.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif" />
 
 <!-- Profile Views -->
 <p>
