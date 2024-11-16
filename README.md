@@ -11,7 +11,7 @@
 </p>
 
 <!-- Profile Image -->
-<img align="right" alt="coding" height="250" width="250" src="https://c.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif" />
+<img align="right" alt="coding" height="200" width="200" src="https://c.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif" />
 
 <!-- Profile Views -->
 <p>
