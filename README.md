@@ -22,7 +22,9 @@
 <!-- ===================== ABOUT ME ===================== -->
 <h2 align="center">⚡ Whoami</h2>
 
-<img align="right" alt="coding" height="230" width="230" src="https://c.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif" />
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
 
 ```typescript
 const nikola: Developer = {
@@ -37,18 +39,25 @@ const nikola: Developer = {
     cloud:    ["Azure", "Azure Logic Apps", "Docker"],
     database: ["SQL Server", "MySQL", "MongoDB"],
   },
-  currentFocus: "Migrating BizTalk orchestrations to Azure Logic Apps",
+  currentFocus: "Migrating BizTalk to Azure Logic Apps",
   motto: "Clean code. Solid architecture. Ship it.",
 };
 ```
 
-- 💻  **Full stack developer** working across the **.NET ecosystem**
-- ☁️  **Azure Integration Engineer** — migrating BizTalk to **Azure Logic Apps**
-- 🍃  Ask me about **C#, .NET Core, Blazor, and SQL Server**
-- 🌐  Build modern frontends with **React, Next.js & TypeScript**
-- 🤝  Open to collaborating on interesting projects
+</td>
+    <td width="38%" align="center" valign="middle">
+      <img alt="coding" width="230" src="https://c.tenor.com/p8gfSVD9BowAAAAC/zoro-one-piece.gif" />
+    </td>
+  </tr>
+</table>
 
-<br clear="right"/>
+<ul>
+  <li>💻 &nbsp;<strong>Full stack developer</strong> working across the <strong>.NET ecosystem</strong></li>
+  <li>☁️ &nbsp;<strong>Azure Integration Engineer</strong> — migrating BizTalk to <strong>Azure Logic Apps</strong></li>
+  <li>🍃 &nbsp;Ask me about <strong>C#, .NET Core, Blazor, and SQL Server</strong></li>
+  <li>🌐 &nbsp;Build modern frontends with <strong>React, Next.js &amp; TypeScript</strong></li>
+  <li>🤝 &nbsp;Open to collaborating on interesting projects</li>
+</ul>
 
 <hr>
 
