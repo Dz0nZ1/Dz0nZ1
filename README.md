@@ -1,12 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9901FF,100:6A00FF&height=200&section=header&text=Nikola%20Lelekovi%C4%87&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Software%20Engineering%20Student&descAlignY=58&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9901FF,100:6A00FF&height=200&section=header&text=Nikola%20Lelekovi%C4%87&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Azure%20Integration%20Engineer&descAlignY=58&descSize=18"/>
 </p>
 
 <!-- ===================== TYPING SVG ===================== -->
 <p align="center">
   <a href="https://github.com/Dz0nZ1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=9901FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nikola+from+Serbia+%F0%9F%87%B7%F0%9F%87%B8;Full+Stack+Developer+%E2%9A%99%EF%B8%8F;Spring+Boot+%E2%80%A2+.NET+Core+%E2%80%A2+React;From+database+to+UI%2C+end+to+end;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=9901FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Nikola+from+Serbia+%F0%9F%87%B7%F0%9F%87%B8;Full+Stack+Developer+%E2%9A%99%EF%B8%8F;.NET+%E2%80%A2+Blazor+%E2%80%A2+React+%E2%80%A2+Azure;Azure+Integration+Engineer+%E2%98%81%EF%B8%8F;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -29,23 +29,24 @@ const nikola: Developer = {
   name: "Nikola Leleković",
   origin: "Serbia 🇷🇸",
   role: "Full Stack Developer",
-  studies: "Software & Data Engineering",
+  company: "Binary Consulting · CHC Helicopter",
+  studies: "Singidunum University",
   stack: {
-    backend:  ["Spring Boot", ".NET Core", "Java"],
+    backend:  [".NET Core", "ASP.NET", "Blazor", "Web API"],
     frontend: ["React", "Next.js", "TypeScript"],
-    database: ["MySQL", "MongoDB"],
-    tools:    ["Git", "Linux", "Docker"],
+    cloud:    ["Azure", "Azure Logic Apps", "Docker"],
+    database: ["SQL Server", "MySQL", "MongoDB"],
   },
-  currentFocus: "Building full stack apps, end to end",
+  currentFocus: "Migrating BizTalk orchestrations to Azure Logic Apps",
   motto: "Clean code. Solid architecture. Ship it.",
 };
 ```
 
-- 💻  **Full stack developer** — comfortable from database to UI
-- 🍃  Ask me about **Spring Boot, .NET Core, and MySQL**
+- 💻  **Full stack developer** working across the **.NET ecosystem**
+- ☁️  **Azure Integration Engineer** — migrating BizTalk to **Azure Logic Apps**
+- 🍃  Ask me about **C#, .NET Core, Blazor, and SQL Server**
 - 🌐  Build modern frontends with **React, Next.js & TypeScript**
 - 🤝  Open to collaborating on interesting projects
-- 🎯  Currently leveling up in **system design & cloud**
 
 <br clear="right"/>
 
@@ -56,30 +57,44 @@ const nikola: Developer = {
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center"><strong>Frameworks & Libraries</strong></p>
+<p align="center"><strong>Backend & Frameworks</strong></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</p>
+
+<p align="center"><strong>Frontend</strong></p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 </p>
 
+<p align="center"><strong>Cloud & Integration</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Logic%20Apps-0066FF?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 <p align="center"><strong>Databases & Tools</strong></p>
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <hr>
